@@ -12,6 +12,8 @@ The purpose of this analysis was to determine how different theater campaigns fa
 
 The most successful months to launch a project would be May and June.  However, both of these months also saw the most launches in the theater category, so just looking at the total successes can be misleading.  Additionally, these months also had a relatively high number of failed campaigns.  
 
+![Theater Outcomes by Launch Date](kickstarter-analysis/resources/Theater_Outcomes_vs_Launch_Date.png)
+
 Nevertheless, projects launched these two months were still more successful than other months and the higher number of total projects launched these two months could be indicative of people launching such campaigns acknowledging this.  
 
 Further, the greater success in these months despite the higher number of total campaigns launched also shows there is not an over saturation and further underscores that these months are the best to laugh theater campaigns in.  
