@@ -24,6 +24,8 @@ Based on the Data December is the worst month to laugh a theater campaign, there
 
 The most successful play campaigns in terms of reaching their funding goals appear to be those with a lower fundraising goal, which makes sense as the threshold to be deemed a success is lower.  
 
+![Outcome Based on Goals](resources/Outcomes_vs_Goals.png)
+
 However, play campaigns with a higher goals, in the $35,000 to $39,999 and $40,000 to $44,999 ranges also saw almost as much success in terms of percentage as the play campaigns with lower goals.  
 
 Unfortunately, this appears to be a product of the small number of campaigns with such higher fund raising goals, as those two goal ranges combined only has a total of 9 projects with 6 being deemed successful, skewing the percentage results due each project quantifying such a large percentage portion of each category.
