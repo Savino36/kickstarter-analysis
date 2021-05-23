@@ -18,7 +18,7 @@ Nevertheless, projects launched these two months were still more successful than
 
 Further, the greater success in these months despite the higher number of total campaigns launched also shows there is not an over saturation and further underscores that these months are the best to laugh theater campaigns in.  
 
-Based on the Data December is the worst month to laugh a theater campaign, there were almost as many canceled campaigns launched in December as those that were successful.
+Based on the Data December is the worst month to laugh a theater campaign, there were almost as many failed campaigns launched in December as those that were successful.
 
 ### Analysis of Outcomes Based on Goals
 
